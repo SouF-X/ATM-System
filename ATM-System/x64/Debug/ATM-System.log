@@ -1,0 +1,5 @@
+﻿  ATM-System.cpp
+C:\Users\HP Computer\Desktop\Learning-C++\ATM-System\ATM-System\ATM-System.cpp(43,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP Computer\Desktop\Learning-C++\ATM-System\ATM-System\ATM-System.cpp(349,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP Computer\Desktop\Learning-C++\ATM-System\ATM-System\ATM-System.cpp(174,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  ATM-System.vcxproj -> C:\Users\HP Computer\Desktop\Learning-C++\ATM-System\x64\Debug\ATM-System.exe
